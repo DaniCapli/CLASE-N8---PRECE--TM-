@@ -1,2 +1,2 @@
-# CLASE-N8---PRECE--TM-
+# CLASE-N8 - PRECE-TM-
 Conectando con procesador de textos 
